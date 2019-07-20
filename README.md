@@ -7,7 +7,7 @@ Este Projeto destina-se aos estudos baseados nas base de dados disponibilizadas 
 
 #### Sistema E-Saude - Perfil de atendimento nas Unidades Municipais de Saúde de Curitiba
 *  [Sistema E-Saude Medicos - Dicionario de Dados](https://mid.curitiba.pr.gov.br/dadosabertos/SESPAMedicoUnidadesMunicipaisDeSaude/2018-11-10_Sistema_E-Saude_Medicos_-_Dicionario_de_Dados.csv)
-*  [Sistema E-Saude Medicos - Base de Dados] (https://mid.curitiba.pr.gov.br/dadosabertos/SESPAMedicoUnidadesMunicipaisDeSaude/2019-07-10_Sistema_E-Saude_Medicos_-_Base_de_Dados.csv)
+*  [Sistema E-Saude Medicos - Base de Dados](https://mid.curitiba.pr.gov.br/dadosabertos/SESPAMedicoUnidadesMunicipaisDeSaude/2019-07-10_Sistema_E-Saude_Medicos_-_Base_de_Dados.csv)
 
 #### Sistema E-Saude - Perfil de atendimento odontológico nas Unidades Municipais de Saúde de Curitiba
 * [Sistema E-Saude Odontologico - Dicionario de Dados](https://mid.curitiba.pr.gov.br/dadosabertos/sespaodontologico/2018-11-10_Sistema_E-Saude_Odontologico_-_Dicionario_de_Dados.csv)
